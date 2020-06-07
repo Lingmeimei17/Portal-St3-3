@@ -1,0 +1,171 @@
+#header {
+	height: 200px;
+}
+
+
+#top-wrapper>div:first-of-type {
+	height: 130px;
+}
+
+.wrapper {
+	width: 995px !important;
+	margin: 0 auto;
+	line-height: 19px;
+}
+
+.wrappertag {
+	width: 995px;
+	margin: 0 auto;
+}
+
+#logo {
+	width: 1300px;
+	height: 179px;
+	background: url(https://i.postimg.cc/4yLn3Gsc/Sakuratoto3-Logos-Portal-2.png) center no-repeat;
+	margin-top: 0px;
+	margin-left:-150px;
+	z-index:9999;
+}
+
+#timing {
+	color: #fff;
+	margin-right:20px;
+	margin-top:5px;
+	font-family: 'oswald2';
+	text-shadow: 2px 2px #286FD7;
+	background-color:#C3393B;
+
+}
+
+
+div.my-form {
+	width: 600px;
+	height: 57px;
+	position: relative;
+	margin-top: -10px;
+	margin-left:0px;
+}
+div.my-form>div:nth-child(1) {
+	width: 100%;
+	height: 57px;
+	padding: 15px 0 0 0px;
+}
+div.my-form>div:nth-child(2) {
+	width: 100%;
+	height: 35px;
+}
+div.my-form>div:nth-child(3) {
+	width: 100%;
+	height: 38px;
+}
+
+div.my-form input:first-of-type {
+	margin-left:45px;
+}
+div.my-form img {
+	width: 59px;
+	height: 22px;
+	float: left;
+	margin-left: -62px;
+	margin-top: 5px;
+}
+
+#btnLogin {
+	width: 120px;
+	height: 35px;
+	cursor: pointer;
+	background-color:transparent;
+	background-image: url("https://i.postimg.cc/02YYdWPJ/button.png");
+	background-repeat: no-repeat;
+	background-position: -0px -160px;
+	background-size: 960px auto;
+	border: none;
+	margin-right: 2px;
+	margin-left: -10px;
+	margin-top: 9px;
+}
+#btnRegister {
+	width: 120px;
+	height: 35px;
+	background-color:transparent;
+	background-image: url("https://i.postimg.cc/02YYdWPJ/button.png");
+	background-repeat: no-repeat;
+	background-position: -120px -160px;
+	background-size: 960px auto;
+	cursor: pointer;
+	border: none;
+	margin-left: 5px;
+	margin-top: 9px;
+}
+#btnLogin:hover {
+	background-color:transparent;
+	background-image: url("https://i.postimg.cc/02YYdWPJ/button.png");
+	background-repeat: no-repeat;
+	background-position: -0px -160px;
+	background-size: 960px auto;
+
+}
+#btnRegister:hover {
+	background-color:transparent;
+	background-image: url("https://i.postimg.cc/02YYdWPJ/button.png");
+	background-repeat: no-repeat;
+	background-position: -120px -160px;
+	background-size: 960px auto;
+
+}
+
+#marquee-wrapper {
+	width: 100%;
+	height: 24px;
+	position: absolute;
+	margin-top: 0px;
+
+}
+.runningtext_content {
+	width: 996px;
+	height: 24px;
+	color: #FFF;
+	line-height: 24px;
+	font-size: 10pt;
+	padding: 0px 00px 0px 00px;
+}
+
+
+	
+}
+
+
+
+
+
+#banklogo {
+	margin-top: 20px;
+	background: url(https://i.postimg.cc/qvjC1gq8/CONTACT-BANK.png) center no-repeat; 
+	height: 90px;
+	
+}
+
+#footera {
+	height: 25px;
+	background-size: cover;
+	margin: 5px auto;
+	box-shadow: 1px 1px 32px 5px #000;
+}
+
+#footersite {
+	font-size: 14px;
+	color: #fff;
+	padding: 5px 0 0;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 0px;
+
+}
+#footersite a {
+	color: #fff;
+	padding-left: 10px;
+}
+
+#footer {
+	height:150px;
+}
