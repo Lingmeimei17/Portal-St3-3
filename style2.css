@@ -129,3 +129,24 @@ div.my-form img {
 	font-size: 10pt;
 	padding: 0px 00px 0px 00px;
 }
+
+#footera {
+	height: 25px;
+	background-size: cover;
+	margin: 5px auto;
+	box-shadow: 1px 1px 32px 5px #000;
+}
+
+#footersite {
+	font-size: 14px;
+	color: #fff;
+	padding: 5px 0 0;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 0px;
+
+}
+#footersite a {
+	color: #fff;
+	padding-left: 10px;
+}
